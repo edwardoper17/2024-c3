@@ -1,2 +1,2 @@
-# 2024-c3
+# 2024-C3
 Edwardo Programación para mecatrónicos
