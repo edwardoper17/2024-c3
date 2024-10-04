@@ -2,18 +2,18 @@
 
 int main() {
     // Entradas
-    float consumo_min, consumo_max, precio_G;
-    const float LPG = 3.78;  // Litros por galÛn
+    float consumo_min, consumo_maxim, precio_G;
+    const float LPG = 3.78;  // Litros por gal√≥n
 
     // Pedir valores al usuario
-    printf("Ingrese el consumo mÌnimo en L/100 km: ");
-    scanf("%f", &consumo_min);
+    printf("Ingrese el consumo m√≠ni en L/100 km: ");
+    scanf("%f", &consumo_minim);
 
-    printf("Ingrese el consumo m·ximo en L/100 km: ");
-    scanf("%f", &consumo_max);
+    printf("Ingrese el consumo m√°xim en L/100 km: ");
+    scanf("%f", &consumo_maxim);
 
-    printf("Ingrese el costo del galÛn de combustible: ");
-    scanf("%f", &precio_G);
+    printf("Ingrese el costo del gal√≥n de combustible: ");
+    scanf("%f", &precio_Galones);
 
     // Encabezado de la tabla
     printf("\nConsumo (L/100 km)    Precio por km\n");
