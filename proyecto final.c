@@ -3,9 +3,9 @@
 #include <string.h> // String manipulation library
 
 // Defining constants for the maximum lengths of strings
-#define MAX_NAME_LEN 50      // Maximum length for the student's name
-#define MAX_CAREER_LEN 50    // Maximum length for the career name
-#define FILE_NAME_LEN 100    // Maximum length for the file name
+#define MAX_NAME_LEN 5      // Maximum length for the student's name
+#define MAX_CAREER_LEN 5    // Maximum length for the career name
+#define FILE_NAME_LEN 10    // Maximum length for the file name
 
 // Definition of the Student structure
 typedef struct {
