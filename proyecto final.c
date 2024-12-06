@@ -121,6 +121,4 @@ void openFile(const char *fileName) {
     fclose(file);  // Closes the file
 }
 
-// Remaining functions...
-// The other functions (saveFile, searchInFile, addStudent, verifyFileExists)
-// are well-commented above. Their purposes include adding records to the file, searching for a specific name, and verifying if a file exists.
+
